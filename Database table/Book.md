@@ -1,6 +1,6 @@
 # Book table
 | **BookID** | **Title** | **Authors** | **Year** | *Publisher* | *Collections* | *ISBN* |
-| :--------: | :-------: | :---------- | :------: | :---------: | :------------ | :----: |
+| :--------: | :-------: | ----------- | :------: | :---------: | ------------- | :----: |
 | 1 | 40 Algorithms Every Programmer Should Know | - Imran Ahmad | 2020 | Packt Publishing, Ltd. | - All-in-One Python |  |
 | 2 | A Practical Approach for Machine Learning and Deep Learning Algorithms: Tools and Technique using MATLAB and Python | - Abhishek Kumar Pandey<br/>- Dr. S. Balamurugan<br/>- Pramod Singh Rathore | 2019 | BPB Publications | - Machine Learning and Artificial Intelligence | 9789388511131 |
 | 3 | AI and ML Powering the Agents of Automation | - AMITENDRA SRIVASTAVA<br/>- DEEPIKA M<br/>- SRINIVAS MAHANKALI<br/>- VIJAY CUDDAPAH | 2019 | BPB Publications | - Machine Learning and Artificial Intelligence |  |
