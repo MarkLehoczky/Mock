@@ -1,6 +1,6 @@
 # Author table
 | **AuthorID** | **AuthorName** | **Books** |
-| :----------: | :------------: | :-------- |
+| :----------: | :------------: | --------- |
 | 1 | AAron Walters | - The Art of Memory Forensics
 | 2 | ABHIVARDHAN | - Artificial Intelligence Ethics and International Law: An Introduction
 | 3 | AMITENDRA SRIVASTAVA | - AI and ML Powering the Agents of Automation
