@@ -1,5 +1,5 @@
 # Book table
-| **BookID** | **Title** | **Authors** | **Year** | *Publisher* | *Collections* | *Price* | *Rating* |
+| **BookID**<br/>🔑 | **Title**<br/>📕 | **Authors**<br/>🖋️ | **Year**<br/>📆 | *Publisher*<br/>🏛️ | *Collections*<br/>📚 | *Price*<br/>💲 | *Rating*<br/>⭐ |
 | :--------: | :-------: | ----------- | :------: | :---------: | ------------- | :-----: | :------: |
 | 1 | 40 Algorithms Every Programmer Should Know | - Imran Ahmad | 2020 | Packt Publishing |  | 27.99 | 4.3 |
 | 2 | AI Assistants | - Roberto Pieraccini | 2021 | The MIT Press | - The MIT Press Essential Knowledge | 12.99 | 4.5 |
