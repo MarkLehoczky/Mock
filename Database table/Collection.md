@@ -1,5 +1,5 @@
 # Collection table
-| **CollectionID**<br/>🔑 | **CollectionName**<br/>🗒️ | **Books**<br/>📚 | *IsSeries*<br/>🤷‍♂️ |
+| **CollectionID**<br/>🔑 | **CollectionName**<br/>🗒️ | **Books**<br/>📚⛓️ | *IsSeries*<br/>😕 |
 | :--------------: | :----------------: | --------- | :--------: |
 | 1 | Imperfect Girl | - Imperfect Girl Vol. 1<br/>- Imperfect Girl Vol. 2<br/>- Imperfect Girl Vol. 3 | True |
 | 2 | Katanagatari | - Katanagatari, Part 1<br/>- Katanagatari, Part 2<br/>- Katanagatari, Part 3<br/>- Katanagatari, Part 4 | True |
