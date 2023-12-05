@@ -1,5 +1,5 @@
 # Author table
-| **AuthorID**<br/>🔑 | **AuthorName**<br/>🖋️ | **Books**<br/>📚 |
+| **AuthorID**<br/>🔑 | **AuthorName**<br/>🖋️ | **Books**<br/>📚⛓️ |
 | :----------: | :------------: | --------- |
 | 1 | Aaron Walters | - The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory |
 | 2 | Adam Shostack | - Threat Modeling: Designing for Security |
